@@ -4,5 +4,6 @@
 .*.~lock
 
 # Outputs
-*.svg
+projection.svg
+cuts-*.svg
 
