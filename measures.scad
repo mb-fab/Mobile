@@ -3,9 +3,10 @@ $fn = 200;
 
 material_z = 3; 
 
-diameter = 200;
+diameter = 400;
+radius = diameter/2;
 
-circle_r1 = diameter/3;
+circle_r1 = radius/3;
 circle_r2 = 2*circle_r1;
 circle_r3 = 3*circle_r1;
 
